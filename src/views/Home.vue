@@ -25,7 +25,7 @@
                             <v-icon>fab fa-google-plus-g</v-icon>
                           </v-btn>
                         </div>
-                        <h4 class="text-center mlt-4">Ensure your email for registration</h4>
+                        <h4 class="text-center mt-4">Ensure your email for registration</h4>
                         <v-form>
                           <v-text-field
                             label="Email Address"
