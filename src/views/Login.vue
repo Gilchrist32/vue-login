@@ -138,7 +138,7 @@
 </template>
 <script>
 export default {
-  name: 'Home',
+  name: 'Login',
   
   data: () => ({
     step: 1
